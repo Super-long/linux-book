@@ -1,8 +1,4 @@
 # linux-book
 
-这里是西邮Linux兴趣小组同学协同编写的Linux相关的开源电子书籍，子目录和书名对照如下：
+这里是 XiyouLinuxGroup 同学协同编写的 Linux 相关的开源电子书籍，用于新同学的 Linux 编程入门。
 
-|目录           |说明             |
-|--------------|-----------------|
-|system-call   |Linux系统编程指南  |
-|kernel        |内核相关          |
